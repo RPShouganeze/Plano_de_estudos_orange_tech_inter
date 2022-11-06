@@ -1,5 +1,7 @@
 # Plano_de_estudos_orange_tech_inter
 
+![image](https://hermes.digitalinnovation.one/tracks/59417914-c4ce-4bf8-b802-f1c1985a07fa.png)
+
 Criando um plano de estudos simplificado para quem gostaria de iniciar na programação front-end. Este guia faz parte de uma mentoria da Digital Innovation One.
 
 
